@@ -65,3 +65,7 @@ Get started by running `python square_filling.py --help`.
 # Examples
 
     python square_filling.py -n 12  -f 0.005 -o pSet3.gif --colormap jet -s
+
+![](images/pSet.gif)
+
+![](images/pSet3.gif)
