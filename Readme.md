@@ -42,7 +42,7 @@ Get started by running `python square_filling.py --help`.
                              [-o OUTPUT] [--colormap COLORMAP]
 
     Create squares in the space between the bottom left quarter of a circle and
-    the surrounding square. The algorithme is recursive: one defines the recursion
+    the surrounding square. The algorithm is recursive: one defines the recursion
     level.
 
     optional arguments:
